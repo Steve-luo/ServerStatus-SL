@@ -1,10 +1,10 @@
-body { font-family:"Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif; background: #ebebeb url('../img/light.png'); }
+body { font-family: Helvetica, Tahoma, Arial, STXihei, "华文细黑", Heiti, "黑体", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", sans-serif;; background: #ebebeb url('../img/light.png'); }
 .announcement { color: #777; border-bottom: solid 3px #d0d0d0; background-color: #fff; padding: 10px 10px; text-align: center; transition: 0.3s; }
-.announcement:hover { border-bottom: solid 3px #159e83; transition: 0.3s; }
+.announcement:hover { border-bottom: solid 3px #689aca; transition: 0.3s; }
 .announcement p { display: inline-block;font-size: 15px;margin: 0;line-height: 1;text-indent: 5px; }
 .announcement i { display: inline-block;font-size: 15px;margin: 0;line-height: 1;color: #444; }
 .navbar { min-height: 50px; }
-.navbar-top { background-color: #4a4a4a !important; border-bottom: 6px solid #159e83; -moz-box-shadow: 0 -4px 0 rgba(0,0,0,.1); box-shadow: 0 6px 0 rgba(0,0,0,.1); }
+.navbar-top { background-color: #043464 !important; border-bottom: 6px solid #689aca; -moz-box-shadow: 0 -4px 0 rgba(0,0,0,.1); box-shadow: 0 6px 0 rgba(0,0,0,.1); }
 .navbar-brand { color: #fff; padding: 10px; font-size: 20px; }
 .dropdown .dropdown-toggle { padding-bottom: 10px; padding-top: 10px; }
 .navbar-inverse .navbar-brand { color: #fff; padding: 15px 20px 10px; font-size: 20px; }
